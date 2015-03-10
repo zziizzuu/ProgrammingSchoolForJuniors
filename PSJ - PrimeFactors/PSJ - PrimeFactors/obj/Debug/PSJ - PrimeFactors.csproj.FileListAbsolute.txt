@@ -1,0 +1,6 @@
+c:\users\bogdan.hurtupan\documents\visual studio 2012\Projects\PSJ - PrimeFactors\PSJ - PrimeFactors\bin\Debug\PSJ - PrimeFactors.exe.config
+c:\users\bogdan.hurtupan\documents\visual studio 2012\Projects\PSJ - PrimeFactors\PSJ - PrimeFactors\bin\Debug\PSJ - PrimeFactors.exe
+c:\users\bogdan.hurtupan\documents\visual studio 2012\Projects\PSJ - PrimeFactors\PSJ - PrimeFactors\bin\Debug\PSJ - PrimeFactors.pdb
+c:\users\bogdan.hurtupan\documents\visual studio 2012\Projects\PSJ - PrimeFactors\PSJ - PrimeFactors\obj\Debug\PSJ - PrimeFactors.csprojResolveAssemblyReference.cache
+c:\users\bogdan.hurtupan\documents\visual studio 2012\Projects\PSJ - PrimeFactors\PSJ - PrimeFactors\obj\Debug\PSJ - PrimeFactors.exe
+c:\users\bogdan.hurtupan\documents\visual studio 2012\Projects\PSJ - PrimeFactors\PSJ - PrimeFactors\obj\Debug\PSJ - PrimeFactors.pdb
